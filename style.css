@@ -1,0 +1,21 @@
+h1 {
+font-family: 'Overpass Mono', monospace;
+font-size: 45px;
+}
+
+.parallax {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: url(https://lh3.googleusercontent.com/uNI6k2deVDNJgtVAFk8iepROS43Vu0XJvB8n4AFICs2JZogydl9SwQOAMCyI5pVRtN1so3hmy5zP1qQgDMSfMq6DDsF3qPHjdAE1kNl2WuIWIqUEP3JVy3RjeEc8m3Fo-KKpKG4yIfa7SY7Khynks6uxCfQ4HJP98qCTQ2kAz8Dl8MZwLeGYmLRvBrd_GELKgu9QwdFudbekXo-JY5SznCUsn-ZqEdsB5IIHwYbHU03jyq8TTJ5udpEMsx6puGylluzNS9gBj_bdHJAu7mFpNP8Esd7FBk95faT1OQem5mJveim_a0cPsKGV30I4Tcfl26XoCCfUWMkiCfdPAce5ZTFRJxuzpEkvqEyQvRPxS8p4lqliqaPlQmasTwjvpmsXIq_5U6kGYNI2UDXNwDR3zQJ9LePYaC7xElSJbv59ozHLDWtmpzASe0zuWSydtaaJQkTik0P0_ke5I9LKSu8ReeFJlk-crgza_vCZS3Ed7ZESOtn258KNCCOifBB_QBqFpRikfmCymaxtqV9O8q-Cu6uUIAERWhIwsPx3qZ8FGP_iPXVFQrXmS4MPgkTd3hPKew9GGkEiyo4Flh7q2g1pF0OuXLsvp4jEvHhKtbUWKfNlRT5LhrTEnS_IQRgqsgzguuU-ojLF59WEWOLxohhJxU1Z5goXeguZ=w1334-h750-no);
+  min-height: 100%;
+  object-fit: cover;]
+}
+
+.me {
+  display: flow-root;
+  border: 3px solid;
+  border-width: thick;
+}
